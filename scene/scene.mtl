@@ -1,0 +1,145 @@
+# Blender 5.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl RedDeliciousApple_Mat.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cherry_tree/RedDeliciousApple_Color.png
+map_Bump cherry_tree/RedDeliciousApple_Normal.png -bm 1
+
+newmtl RedDeliciousApple_Mat.006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cherry_tree/RedDeliciousApple_Color.png
+map_Bump cherry_tree/RedDeliciousApple_Normal.png -bm 1
+
+newmtl RedDeliciousApple_Mat.007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd cherry_tree/RedDeliciousApple_Color.png
+map_Bump cherry_tree/RedDeliciousApple_Normal.png -bm 1
+
+newmtl bonfire_black_terra.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.013245 0.013245 0.013245
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bonfire/Texture/black_terra.png
+
+newmtl bonfire_logs.002
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.014286 0.014286 0.014286
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bonfire/Texture/logs.png
+
+newmtl leaf_and_grass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd small_camp/Texture/leafandgrasstexture1024x1024.png
+map_d small_camp/Texture/leafandgrasstexture1024x1024.png
+
+newmtl leaf_and_grass.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd small_camp/Texture/leafandgrasstexture1024x1024.png
+map_d small_camp/Texture/leafandgrasstexture1024x1024.png
+
+newmtl leaf_and_grass.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd small_camp/Texture/leafandgrasstexture1024x1024.png
+map_d small_camp/Texture/leafandgrasstexture1024x1024.png
+
+newmtl leaf_and_grass.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd small_camp/Texture/leafandgrasstexture1024x1024.png
+map_d small_camp/Texture/leafandgrasstexture1024x1024.png
+
+newmtl stones.002
+Ns 78.431366
+Ka 1.000000 1.000000 1.000000
+Ks 0.069536 0.069536 0.069536
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd bonfire/Texture/stone.png
+
+newmtl tree
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd small_camp/Texture/treetexture1024x1024.png
+
+newmtl tree.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd small_camp/Texture/treetexture1024x1024.png
+
+newmtl tree.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd small_camp/Texture/treetexture1024x1024.png
+
+newmtl tree.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd small_camp/Texture/treetexture1024x1024.png
